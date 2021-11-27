@@ -12,9 +12,9 @@ versions:
 type: how_to
 topics:
   - Codespaces
-  - Permissions
+  - Permissions yes
   - Administrator
----
+---cj
 
 
 ## About enabling {% data variables.product.prodname_codespaces %} for your organization
